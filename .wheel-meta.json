@@ -1,0 +1,22 @@
+{
+  "wheel_id": 663,
+  "structure": "umbrella",
+  "slug": "theseocompanybrisbane-com-105",
+  "project": "seo-services-brisbane-beginner-guide-a801c5f5c9de926d2b8689a621",
+  "parent_t1_ref": "theseocompanybrisbane-com-152",
+  "node_role": "feeder",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane beginner guide",
+  "intended_url": "https://aumedia.neocities.org/seo-services-brisbane-beginner-guide-a801c5f5c9de926d2b8689a621/",
+  "tier": "T2",
+  "writeback_nonce": "f31f8365638af881",
+  "links": [
+    {
+      "target_url": "http://seo-services-brisbane-what-to-expect-83889cce839dc1ee0e0b32b7a5.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "seo services brisbane what to expect explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
